@@ -1,3 +1,12 @@
 .container{
     background-color: #f6efee;
 }
+hr { 
+    display: block;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
