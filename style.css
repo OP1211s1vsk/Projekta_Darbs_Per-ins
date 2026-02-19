@@ -10,3 +10,21 @@ hr {
     border-style: inset;
     border-width: 1px;
 }
+.manabilde {
+    width: 400px;
+    height: auto;
+}
+.carousel-item img {
+    height: 400px;
+    width: 400px;
+    object-fit: cover;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  scroll-padding-top: 70px; /* header augstums */
+}
+.Stils {
+font-size: large;
+}
