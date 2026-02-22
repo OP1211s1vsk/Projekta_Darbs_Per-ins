@@ -24,7 +24,11 @@ html {
 }
 body {
   scroll-padding-top: 70px; /* header augstums */
+  background-color: #d5c9cb;
 }
 .Stils {
 font-size: large;
+}
+body {
+    font-family: 'Raleway', sans-serif;
 }
