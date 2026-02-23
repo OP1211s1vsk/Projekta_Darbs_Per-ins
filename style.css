@@ -32,3 +32,14 @@ font-size: large;
 body {
     font-family: 'Raleway', sans-serif;
 }
+h2{
+    font-weight: 600;
+}
+
+.nav-link {
+    color: black;
+    font-size: 18px;
+}
+.fs-3 {
+font-weight: 500;
+}
